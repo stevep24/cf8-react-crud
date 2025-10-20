@@ -1,13 +1,10 @@
-
+import { Button } from "@/components/ui/button"
 
 function App() {
-
-
-  return (
-    <>
-
-    </>
-  )
+    return (
+        <>
+        </>
+    )
 }
 
 export default App
